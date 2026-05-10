@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/productcatalog/java-8-new",
+    "test_type": "K",
+    "description": "Evaluates candidate's knowledge and skill in programming with Java 8. Suitable for mid-level developers.",
+    "category": "Skills"
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/productcatalog/opq32r",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire. Measures how personality impacts work performance and behavior, focusing on stakeholder interaction, teamwork, and leadership.",
+    "category": "Personality"
+  },
+  {
+    "name": "Verify G+ (Interactive)",
+    "url": "https://www.shl.com/solutions/products/productcatalog/verify-g-plus",
+    "test_type": "C",
+    "description": "A comprehensive measure of general cognitive ability including numerical, deductive, and inductive reasoning.",
+    "category": "Cognitive"
+  },
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/productcatalog/verify-numerical",
+    "test_type": "C",
+    "description": "Measures the ability to make correct decisions or inferences from numerical or statistical data.",
+    "category": "Cognitive"
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/productcatalog/verify-verbal",
+    "test_type": "C",
+    "description": "Measures the ability to evaluate the logic of various kinds of argument as presented in written form.",
+    "category": "Cognitive"
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/productcatalog/mq",
+    "test_type": "M",
+    "description": "Explores the situations and conditions that drive an individual to perform at their best.",
+    "category": "Motivation"
+  },
+  {
+    "name": "Python 3.x",
+    "url": "https://www.shl.com/solutions/products/productcatalog/python-3",
+    "test_type": "K",
+    "description": "Evaluates candidate's knowledge of Python 3.x, suitable for data scientists and backend engineers.",
+    "category": "Skills"
+  },
+  {
+    "name": "Dependability and Safety Instrument",
+    "url": "https://www.shl.com/solutions/products/productcatalog/dsi",
+    "test_type": "P",
+    "description": "Measures a candidate's potential for safe behavior and reliability in safety-critical roles.",
+    "category": "Personality"
+  },
+  {
+    "name": "Situational Judgment Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/productcatalog/sjt",
+    "test_type": "B",
+    "description": "Assesses an individual's judgement and decision making in workplace scenarios.",
+    "category": "Behavior"
+  },
+  {
+    "name": "Global Sales Assessment (GSA)",
+    "url": "https://www.shl.com/solutions/products/productcatalog/gsa",
+    "test_type": "B",
+    "description": "Measures the potential to succeed in different sales roles, evaluating behaviors like negotiation and relationship building.",
+    "category": "Behavior"
+  }
+]
